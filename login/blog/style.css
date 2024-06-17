@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.blog-heading {
+    background-color: rgb(219, 203, 219);
+    height: 85px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  
+}
+.left-content {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 80px;
+    margin-bottom: 30px;
+   
+}
+.right-content {
+    
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 80px;
+    margin-left: 60px;
+    height: 1230px;
+    overflow-y: scroll;
+    margin-left: 14px;
+   
+}
+
+#left-content-heading1 {
+    padding-top: 32px;
+    padding-left: 10px;
+}
+.inner-left-content-heading1 {
+   
+    padding: 8px;
+}
+ 
+.innerHeading {
+    height: 250px;
+    overflow-y: scroll;
+    border: 1px solid black;
+}
+/* /* img {
+    height: 200px;
+    width: 300px;
+    padding: 10px; */
+
+.search-bar {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+   
+}
+#searchtbn {
+    margin-right: 10px;
+    padding: 5px;
+    
+}
+#rcnt {
+    font-size: 30px;
+    margin-left: 28px;
+    margin-top: 20px;
+}
+.post1 {
+   
+    margin-top: 45px;
+    margin-left: 30px;
+}
+#catji {
+    height: 80px;
+    width: 80px;
+    padding-left: 0px;
+}
+#post1-p {
+    margin-top: 40px;
+}
+.below-content {
+    height: 100px;
+    background-color: blue;
+
+}
+/* .below-content-right {
+    height: 100px;
+    background-color: purple;
+} */
+/* }
+.left-below-content {
+   
+    
+    margin-top: 80px;
+    margin-bottom: 30px;
+    height: 20px;
+
+}
+.right-below-content {
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 80px;
+    margin-left: 68px;
+
+ }
+#category {
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 2px;
+    
+}
+#list1 {
+    margin-left: 16px;
+    padding-top: 25px;
+}
+#list2 {
+    margin-left: 16px;
+}
+
+#list3 {
+    margin-left: 16px;
+}
+#list4 {
+    margin-left: 16px;
+}
+.below-content-cont {
+    float: right;
+}  */
